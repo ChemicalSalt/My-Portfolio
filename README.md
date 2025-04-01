@@ -16,4 +16,4 @@ My Awesome Website is a simple and responsive site designed to showcase my web d
 - CSS
   
 ## How to Run
-https://potassiumpermanganate015.github.io/My-Portfolio/
+https://chemicalsalt.github.io/My-Portfolio/
