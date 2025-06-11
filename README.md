@@ -1,7 +1,7 @@
-# My Simple Website
+# My Portfolio
 
 ## Description
-My Awesome Website is a simple and responsive site designed to showcase my web development skills. It features an introduction, information about the services I offer, a gallery of my work, and a contact form for inquiries.
+My Portfolio is a simple and responsive site designed to showcase my web development skills. It features an introduction, information about the services I offer, a gallery of my work, and a contact form for inquiries.
 
 ## Features
 - **Home**: An introduction to the website and its purpose.
