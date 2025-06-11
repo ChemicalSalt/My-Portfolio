@@ -12,6 +12,7 @@ My Awesome Website is a simple and responsive site designed to showcase my web d
 
 ## Technologies Used
 - HTML
+- CSS
   
 ## How to Run
 https://chemicalsalt.github.io/My-Portfolio/
