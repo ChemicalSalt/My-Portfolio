@@ -1,7 +1,7 @@
 ## Root
 
 ## Description
-Root is a simple and responsive site designed to showcase my foundation web development skills. 
+Root is a simple and responsive site.
 
 ## Technologies Used
 - HTML
