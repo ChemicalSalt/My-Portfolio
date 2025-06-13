@@ -8,4 +8,4 @@ Root is a simple and responsive site designed to showcase my foundation web deve
 - CSS
   
 ## How to Run
-https://github.com/ChemicalSalt/Root.git
+https://chemicalsalt.github.io/Root/
