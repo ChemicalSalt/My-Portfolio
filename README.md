@@ -15,4 +15,4 @@ Root is a simple and responsive site designed to showcase my web development ski
 - CSS
   
 ## How to Run
-https://chemicalsalt.github.io/My-Portfolio/
+https://github.com/ChemicalSalt/Root.git
